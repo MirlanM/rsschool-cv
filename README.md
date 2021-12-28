@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mirlanm.github.io/rsschool-cv/cv
