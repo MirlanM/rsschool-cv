@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18;
+    color: #333;
+    max-width: 1440px;
+    background-color: #fff;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+main {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 auto;
+}
+.greeting {
+    float: left;
+    width: 500px;
+    border: 2px solid red;
+    margin: 50px 100px;
+}
+h1 {
+    font-family: 'Pushster', cursive;
+    font-size: 80px;
+}
+.mainPhoto {
+    
+}
+.nav {
+    text-align: center;
+    margin: 50px;
+}
+a {
+    margin: 0 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #333;
+
+}
+.aboutMe {
+    margin: 0 auto;
+    text-align: center;
+    width: 70%;
+}
+p {
+    font-family: 'Pushster', cursive;
+    font-size: 16px;
+}
+.skills {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.image1 {
+    width: 350px;
+    height: 350px;
+}
+.reducedImages {
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    transition: 0.5s;
+}
+.reducedImages:hover {
+    transform: scale(3);
+}
+.education {
+    margin: 0 auto;
+    text-align: center;
+    width: 70%;
+}
+.contacts {
+    margin: 0 auto;
+    text-align: center;
+    width: 70%;
+}
+.contico {
+    
+}
