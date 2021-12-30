@@ -1,1 +1,1 @@
-https://mirlanm.github.io/rsschool-cv/cv
+https://mirlanm.github.io/rsschool-cv
