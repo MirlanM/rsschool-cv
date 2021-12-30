@@ -4,7 +4,6 @@ body {
     color: #333;
     max-width: 1440px;
     background-color: #fff;
-    border: 2px solid red;
     margin: 0 auto;
 }
 main {
@@ -15,7 +14,6 @@ main {
 .greeting {
     float: left;
     width: 500px;
-    border: 2px solid red;
     margin: 50px 100px;
 }
 h1 {
@@ -23,7 +21,8 @@ h1 {
     font-size: 80px;
 }
 .mainPhoto {
-    
+    width: 500px;
+    height: 500px;
 }
 .nav {
     text-align: center;
@@ -51,10 +50,6 @@ p {
     margin: 0 auto;
     text-align: center;
 }
-.image1 {
-    width: 350px;
-    height: 350px;
-}
 .reducedImages {
     width: 250px;
     height: 250px;
@@ -70,10 +65,24 @@ p {
     width: 70%;
 }
 .contacts {
-    margin: 0 auto;
     text-align: center;
-    width: 70%;
+    width: 100%;
+    margin: 0 auto;
+
 }
-.contico {
+.conticons {
     
+}
+.contIco {
+    width: 50px;
+    height: 50px;
+}
+.conticons a {
+    width: 350px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    margin: 0 50px;
 }
